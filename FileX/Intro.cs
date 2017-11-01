@@ -14,7 +14,7 @@ namespace FileX
         {
             IntroBaslat();
         }
-        string[] isimB = { "B", "a", "Ş", "L","ı","Y","o","R" };
+        string[] isimB = { "B", "a", "Ş", "L","ı","Y","o","R..." };
         protected void IntroBaslat()
         {
             
