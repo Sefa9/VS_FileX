@@ -1,0 +1,7 @@
+D:\Software\Projects\C\FileX\FileX\bin\Debug\FileX.exe.config
+D:\Software\Projects\C\FileX\FileX\bin\Debug\FileX.exe
+D:\Software\Projects\C\FileX\FileX\bin\Debug\FileX.pdb
+D:\Software\Projects\C\FileX\FileX\obj\Debug\FileX.csprojResolveAssemblyReference.cache
+D:\Software\Projects\C\FileX\FileX\obj\Debug\FileX.csproj.CoreCompileInputs.cache
+D:\Software\Projects\C\FileX\FileX\obj\Debug\FileX.exe
+D:\Software\Projects\C\FileX\FileX\obj\Debug\FileX.pdb
